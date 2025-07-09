@@ -1,10 +1,10 @@
 {
-  "name": "academic-pages",
+  "name": "Mehmet Yurtsever",
   "version": "0.8.1.1",
-  "description": "Academic Pages Mistakes Jekyll theme npm build scripts",
+  "description": "Matematik Öğrenmeye Çalışan Biri",
   "repository": {
     "type": "git",
-    "url": "https://github.com/academicpages/academicpages.github.io"
+    "url": "https://github.com/mehmetyurtsever-math"
   },
   "keywords": [
     "jekyll",
