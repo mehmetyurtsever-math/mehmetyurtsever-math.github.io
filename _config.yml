@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Mehmet-Yurtsever"
+title                    : "Mehmet Yurtsever"
 title_separator          : "-"
 name                     : &name "Mehmet Yurtsever"
-description              : &description "Matematiği Anlamaya Çalışan Biri"
+description              : &description "Matematiği Anlamaya Çalişan Biri"
 url                      : https://mehmetyurtsever-math.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mehmetyurtsever-math.github.io"
@@ -23,9 +23,9 @@ repository               : "mehmetyurtsever-math.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Mehmet Yurtsever"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Matematği anlamaya çalişan biri..."
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
